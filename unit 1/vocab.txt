@@ -12,3 +12,5 @@ Intergers- Datatypes that are just whole numbers , or numbers without a decimal 
 Floats- Decimal numbers
 Booleans- A datatype that only has 2 values which are true or false 
 Variables- Containier for data
+Compairison Operators- Set of symbols used to Access if data is the same or different and how they different
+Logical Operators- evaluta conditions

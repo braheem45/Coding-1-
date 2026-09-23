@@ -1,0 +1,9 @@
+Intergers , floats , Booleans , Variables.
+
+2* it stores and saves codes/coding
+
+3* input device
+
+4* a Containier for data
+
+5* Variables can not have spaces
