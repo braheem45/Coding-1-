@@ -1,0 +1,23 @@
+#1. Im making a basketball game that is carton like and a little blocky.
+#  The whole game would be played under a five minute timer ,
+#   it is a 2 player game.
+#  during that 5 minute time limit both players would get 5 hearts.
+#  Those hearts will represent chances/shots oppenents have made.
+#  If one player makes a shot the other player will lose a heart.
+#  The first to make 5 shots which would elminate all 5 hearts/chances that player has would win ,
+#  but the player who just lost would be given another chance at the end of the game.
+#  If both players agree they would play again under a one minute timer.
+#  During this time both players would be given 3 hearts ,
+#  the same rules apply.
+#  Each shot the other player makes takes your hearts away.
+#  If the already crowned winner wins this mini game a new round would begin ,
+#  but if the loser wins the mini game they are given a 2nd chance and the last round would not count.
+#  Because the loser of the full game won the mini game the full round would not count and the loser gets another chance under the five minute timer and 5 heart rule.
+
+#2. The general action of this game is shooting the basketball , blocking shots , gettting rebounds , moving back and forth and jumping
+
+#3. If the action is completed by the user/users one of those following actions would happen depending on where their characters are
+
+#4. If the player/user fails they would miss the shot , not get the block , miss a rebound , and fail to move back and forth and jump
+
+#5. This game is similar to 2k tournements , basket random
