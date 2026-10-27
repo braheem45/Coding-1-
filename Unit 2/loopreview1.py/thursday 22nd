@@ -1,0 +1,10 @@
+def vendingmachine():
+    print("VENDING MACHINE")
+    print("please type in a value for the item you want: ")
+    userSlection = input()
+    while userSlection != "q":
+        if user selction == "b3":
+print("nacho chips")
+print(" VENDING MACHINE IS OFF")
+
+vendingmachine()
